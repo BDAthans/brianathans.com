@@ -1,0 +1,119 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: IT Commando
+# your company information
+#company:
+#  name: Example Co.
+#  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+# a summary about you
+summary: "Over a decade of experience in various tech disciplines ranging from software development and project management to DevOps and system administration, network administration, software support, and cybersecurity. I’ve built my career on continuously learning and adapting, and I enjoy tackling projects that drive me to continually expand my expertise.
+<br><br>
+As a project manager, I've led various software development projects using tools such as Jira, Kanban, ClickUp, and Microsoft Project. I've employed agile, waterfall, scrum, and hybrid approaches to drive project delivery, effectively addressing client needs and resolving issues. Additionally, I've overseen DevOps activities for testing and deployment, utilizing Docker solutions to enhance scalability and security. 
+<br><br>
+In addition, I bring extensive expertise in web services, system design and administration, and database design and management. Leveraging these skills, I've architected robust systems, built scalable web services, and optimized databases to boost performance and reliability. My work rests on solid technical foundations and a commitment to delivering dependable, impactful outcomes.
+<br><br>"
+#<h5 class=\"p-1\">Second Section Header</h5>"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+#- name: Email
+#  icon: "fas fa-envelope"
+#  url: "example@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/BDAthans"
+
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/brianathans"
+
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
+
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: CompTia IT Operations Specialist 
+  url: "https://www.credly.com/badges/cef6fad2-6948-417e-b2b7-27e047fd1681"
+  badge: "https://images.credly.com/size/340x340/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png"
+  #badge: "/images/experiences/geek-squad.svg"
+
+- type: certification
+  name: CompTIA Secure Infrastructure Specialist
+  url: "https://www.credly.com/badges/9ebeb3e9-f328-49b5-ac00-54ae17ccf2c4"
+  badge: "https://images.credly.com/size/340x340/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png"
+
+- type: certification
+  name: CompTIA Security+ ce Certification
+  url: "https://www.credly.com/badges/19dde1ac-efac-49fe-9a10-30846e994f75"
+  badge: "https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"
+
+- type: certification
+  name: CompTIA Network+ ce Certification
+  url: "https://www.credly.com/badges/dcfc6899-385a-4dc6-973f-821f552e1f34"
+  badge: "https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png"
+
+- type: certification
+  name: CompTIA A+ ce Certification
+  url: "https://www.credly.com/badges/4443ee43-4ff7-4a90-8793-6c05f5ff95e0"
+  badge: "https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png"
+
+- type: certification
+  name: CompTIA Project+ Certification
+  url: "https://www.credly.com/org/comptia/badge/comptia-project-certification.4"
+  badge: "https://images.credly.com/images/dac352d2-7755-4178-a4a4-b67a1a3f7aca/CompTIA_Project_2B.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: "#bed190"
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: "#91d9bf"
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 85
+  color: "#8bc386"
+
+- type: soft-skill-indicator
+  name: Project Management
+  percentage: 85
+  color: "#668c73"
+
+- type: soft-skill-indicator
+  name: Adaptability
+  percentage: 90
+  color: "#58918b"
+
+- type: soft-skill-indicator
+  name: Problem-Solving
+  percentage: 95
+  color: "#628c23"

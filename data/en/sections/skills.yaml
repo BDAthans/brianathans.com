@@ -1,0 +1,152 @@
+# section information
+section:
+  name: Skills & Expertise
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  filter: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Databases
+  filter: "db"
+- name: DevOps
+  filter: "devops"
+- name: Languages
+  filter: "languages"
+- name: Networking
+  filter: "networking"
+- name: OS
+  filter: "os"
+- name: Tools
+  filter: "tools"
+- name: Virtualization
+  filter: "vm"
+- name: Web
+  filter: "web"
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Docker
+  logo: "/images/skills/docker.svg"
+  summary: "Capable of deploying, and managing applications running in Docker. Experienced in creating and building Docker images, mangaging networks and deploying custom containers."
+  categories: ["vm", "networking"]
+  url: "https://www.docker.com/"
+
+- name: VMware
+  logo: "/images/skills/vmware.svg"
+  summary: "Understand VMware ESXi and VMware workstation, deploying and managing virtual machines for both server and desktop environments."
+  categories: ["vm", "networking"]
+  url: "https://www.vmware.com/"
+
+- name: Git
+  logo: "/images/skills/git.svg"
+  summary: "Frequently utilize Git in all software development projects. Primarily use GitHub and GitHub Actions to automate testing and for tracking changes of projects."
+  categories: ["tools"]
+  url: "https://git-scm.com/"
+
+- name: Jira
+  logo: "/images/skills/jira.svg"
+  summary: "Worked in JIRA on software development projects as a project manager, to build development timelines, track issues and features, and manage product backlogs."
+  categories: ["tools"]
+  url: "https://www.atlassian.com/software/jira"
+
+- name: C++
+  logo: "/images/skills/cpp.svg"
+  summary: "Primarily use C++ in building windows applications, with experience in socket programming, utilizing the Win32 API, and Qt in developing GUI applications."
+  categories: ["languages"]
+  url: "https://isocpp.org/"
+
+- name: C# .NET
+  logo: "/images/skills/csharp.svg"
+  summary: "Built applications in C# .NET, including developing GUI applications using XAML and creating web APIs with ASP.NET."
+  categories: ["languages"]
+  url: "https://dotnet.microsoft.com/en-us/languages/csharp"
+
+- name: PowerShell
+  logo: "/images/skills/powershell.svg"
+  summary: "Automated tasks and managed Windows environments using PowerShell, including Active Directory management and system configuration."
+  categories: ["languages"]
+  url: "https://learn.microsoft.com/en-us/powershell/"
+
+- name: Shell & Bash
+  logo: "/images/skills/bash.svg"
+  summary: "Proficient in writing scripts to automate tasks and simplify server and service management, improving efficiency and reducing complexity."
+  categories: ["languages", "devops"]
+  url: "https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/"
+
+- name: HTML & CSS
+  logo: "/images/skills/html.svg"
+  summary: "Used HTML to build and structure websites, and CSS to design layouts, creating responsive and visually engaging user experiences."
+  categories: ["languages", "web"]
+  url: "https://www.w3.org/"
+
+- name: Python
+  logo: "/images/skills/python.svg"
+  summary: "Developed Python scripts for automation, penetration testing, and creating custom tools, streamlining processes and enhancing functionality."
+  categories: ["languages", "devops", "web"]
+  url: "https://www.python.org/"
+
+- name: MySQL
+  logo: "/images/skills/mysql.svg"
+  summary: "Proficient in MySQL to develop applications, design efficient databases, craft queries, and enhance performance."
+  categories: ["db"]
+  url: "https://www.mysql.com/"
+
+- name: Microsoft SQL Server
+  logo: "/images/skills/sql.svg"
+  summary: "Extensive experience with Microsoft SQL Server, focusing on database design, query optimization, and managing data for application development."
+  categories: ["db"]
+  url: "https://www.microsoft.com/en-us/sql-server"
+
+- name: NGINX
+  logo: "/images/skills/nginx.svg"
+  summary: "Configured NGINX as a reverse proxy for multiple websites and services, enhancing security to block malicious traffic and attacks."
+  categories: ["web", "networking"]
+  url: "https://nginx.org/"
+
+- name: Microsoft Windows Server
+  logo: "/images/skills/windows.svg"
+  summary: "Implemented Active Directory, DNS services, and managing access licenses, as well as deploying it as a Virtual Private Server (VPS)."
+  categories: ["os", "networking"]
+  url: "https://www.microsoft.com/en-us/windows-server"
+
+- name: Linux
+  logo: "/images/skills/linux.svg"
+  summary: "Worked with various Linux distributions, setting up web servers and web services, and deploying high-reliability public-facing systems."
+  categories: ["os", "web", "networking", "devops"]
+  url: "https://www.linux.org/"
+
+- name: HP Enterprise (HPE)
+  logo: "/images/skills/hpe.svg"
+  summary: "Configured and troubleshot HP Enterprise and Aruba networking equipment, implementing VLANs and QoS on Layer 2 and Layer 3 switches."
+  categories: ["networking"]
+  url: "https://www.hpe.com/us/en/home.html"
+
+- name: Terraform
+  logo: "/images/skills/terraform.svg"
+  summary: "Leveraged Terraform to automate server deployments using hosting provider APIs, dynamically scaling by provisioning and destroying servers as needed."
+  categories: ["devops", "tools"]
+  url: "https://www.terraform.io/"
+
+- name: Ansible
+  logo: "/images/skills/ansible.svg"
+  summary: "Utilized to automate the installation of tools and services on servers, ensuring consistency and scalability across deployments."
+  categories: ["devops", "tools"]
+  url: "https://www.redhat.com/en/ansible-collaborative"
+
+  
+
+
+
+
+
+
+
+

@@ -1,0 +1,103 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Cybersecurity and Information Assurance
+  icon: fa-building-columns
+  timeframe: 2026
+  institution:
+    name: Western Governers University
+    url: "https://www.wgu.edu/"
+    logo: /images/education/college.png # Path of the logo image
+    darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  #grade: #(optional)
+  #  scale: CGPA
+  #  achieved: 3.6
+  #  outOf: 4
+  #publications: #(optional)
+  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #  url: "#"
+  #- title: Fusce eu augue ut odio porttitor pulvinar.
+  #  url: "#"
+  #- title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #  url: "#"
+  #extracurricularActivities: #(optional), supports markdown
+  #- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #- Fusce eu augue ut odio porttitor pulvinar.
+
+  customSections: #(optional)
+    - name: Degree Summary
+      content: "In an era where hackers and cybercriminals continually develop sophisticated computer viruses, malware, and scams that threaten vital data, my degree in cybersecurity from WGU provided a comprehensive education in IT security principles. The program offered a solid foundation in areas such as Secure Systems Analysis and Design, Data Management, Web and Cloud Security, Hacking Countermeasures and Techniques, and Digital Forensics and Incident Response."
+
+  #takenCourses:
+ #   showGrades: false
+ #   collapseAfter: 3
+ #   courses:
+ #     - name: Introduction to IT
+ #     - name: Integrated Phyiscal Sciences
+ #     - name: Critical Thinking and Logic
+ #     - name: Business of IT - Applications
+ #     - name: Legal Issues in Information Security
+ #     - name: IT Applications
+ #     - name: IT Foundations
+ #     - name: Scripting and Programming - Foundations
+ #     - name: Web Development - Foundations
+ #     - name: Ethics in Technology
+ #     - name: Applied Probability and Statistics
+ #     - name: Network and Security Foundations
+ #     - name: Network and Security Applications
+ #     - name: Introduction to Geography
+ #     - name: Data Management - Foundations
+ #     - name: Fundamentals of Information Security
+ #     - name: Technical Communication
+ #     - name: English Composition I
+ #     - name: Business of IT - Project Management
+ #     - name: Networks
+ #     - name: Introduction to Cryptography
+ #     - name: Introduction to Systems Thinking
+ #     - name: Emerging Technologies in Cybersecurity
+ #     - name: Applied Alegebra
+ #     - name: Data Management - Applications
+ #     - name: Digital Forensics in Cybersecurity
+ #     - name: Information Systems Security
+ #     - name: American Politics and the US Constitution
+ #     - name: Introduction to Communication - Connecting with Others
+ #     - name: Managing Information Security
+ #     - name: Cyber Defense and Countermeasures
+ #     - name: Managing Cloud Security
+ #     - name: Penetration Testing and Vulnerability Analysis
+ #     - name: IT Capstone Written Project
+
+- name: Computer Software Engineering
+  icon: fa-building-columns
+  timeframe: 2013
+  institution: 
+    name: Illinois Central College
+    url: "https://icc.edu/"
+    logo: /images/education/college.png # Path of the logo image
+    darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+
+  customSections: #(optional)
+    - name: Degree Summary
+      content: "Focused studies in Computer Software Engineering, acquiring a robust foundation in programming languages and database management. My education spanned event-driven programming with Visual Basic, mastering both introductory and advanced concepts in C++ programming, developing cross-platform applications in Java, and designing and managing relational databases. This diverse curriculum has equipped me with the essential skills for software development, enabling me to contribute effectively to various programming and IT projects."
+
+- name: Automotive Technology Program
+  icon: fa-building-columns
+  timeframe: 2013
+  institution:
+    name: Illinois Central College
+    url: "https://icc.edu/"
+    logo: /images/education/college.png # Path of the logo image
+    darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+
+  customSections: #(optional)
+    - name: Degree Summary
+      content: "Intensive Automotive Technology Program, mastering automotive repair and system diagnostics across a spectrum of areas. Studies encompassed engine fundamentals, performance testing, fuel/ignition systems, electrical and A/C systems maintenance, alongside drivetrain components expertise. Practical skills in manual and automatic transmissions, suspension, and brake systems were developed. Enhanced problem-solving and communication were cultivated through additional coursework in Composition, Creative Writing, Communications, and Mathematics."
