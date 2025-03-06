@@ -16,8 +16,8 @@ degrees:
   institution:
     name: Western Governers University
     url: "https://www.wgu.edu/"
-    logo: /images/education/college.png # Path of the logo image
-    darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+    logo: "images/education/wgu-logo-color.webp"
+    darkLogo: "images/education/wgu-logo-white.webp"
   #grade: #(optional)
   #  scale: CGPA
   #  achieved: 3.6
@@ -82,8 +82,8 @@ degrees:
   institution: 
     name: Illinois Central College
     url: "https://icc.edu/"
-    logo: /images/education/college.png # Path of the logo image
-    darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+    logo: "images/education/icc-logo-color.webp"
+    darkLogo: "images/education/icc-logo-white.webp"
 
   customSections: #(optional)
     - name: Degree Summary
@@ -95,8 +95,8 @@ degrees:
   institution:
     name: Illinois Central College
     url: "https://icc.edu/"
-    logo: /images/education/college.png # Path of the logo image
-    darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+    logo: "images/education/icc-logo-color.webp"
+    darkLogo: "images/education/icc-logo-white.webp"
 
   customSections: #(optional)
     - name: Degree Summary

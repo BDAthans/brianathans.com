@@ -12,8 +12,8 @@ experiences:
     name: Applied Physics USA
     url: https://appliedphysicsusa.com/
     location: REMOTE
-    logo: "/images/experiences/applied-physics-color.png"
-    darkLogo: "/images/experiences/applied-physics-white.png"
+    logo: "images/experiences/applied-physics-color.png"
+    darkLogo: "images/experiences/applied-physics-white.png"
     overview:  "A supplier in pharmaceutical and semiconductor metrology equipment such as foggers, wafer standards, air samplers, particle counters, particles and microspheres."
 
   positions:
@@ -41,8 +41,8 @@ experiences:
     name: Eyefinity, Inc.
     url: "https://www.eyefinity.com/"
     location: Peoria, IL
-    logo: "/images/experiences/Eyefinity-logo.svg"
-    darkLogo: "/images/experiences/Eyefinity-logo-white.svg"
+    logo: "images/experiences/Eyefinity-logo.svg"
+    darkLogo: "images/experiences/Eyefinity-logo-white.svg"
     overview: "Provides innovative practices, reliable practice management and electronic health records solutions that support in simplifying workflows for a better patient experience."
 
   positions:
@@ -61,8 +61,8 @@ experiences:
     name: PhoenixiTek
     url: "https://www.phoenixitek.com/"
     location: Peoria, IL
-    logo: "/images/experiences/phoenixitek_color.svg"
-    darkLogo: "/images/experiences/phoenixitek_white.svg"
+    logo: "images/experiences/phoenixitek_color.svg"
+    darkLogo: "images/experiences/phoenixitek_white.svg"
     overview: "Web services company providing cloud computing services such as web hosting, web design, SEO, and domain registration."
   
   positions:
@@ -81,8 +81,8 @@ experiences:
     name: Advanced Technology Services (ATS)
     url: "https://www.advancedtech.com/"
     location: Peoria, IL
-    logo: "/images/experiences/ats-color.svg"
-    darkLogo: "/images/experiences/ats-color.svg"
+    logo: "images/experiences/ats-color.svg"
+    darkLogo: "images/experiences/ats-color.svg"
     overview: "Provides a technical workforce, standardized processes and predictive technologies to solve recruiting challenges, overcome skill gaps and improve equipment efficiency."
   
   positions:
@@ -99,8 +99,8 @@ experiences:
     name: Geek Squad
     url: "https://geeksquad.com"
     location: Peoria, IL
-    logo: "/images/experiences/geek-squad.svg"
-    darkLogo: "/images/experiences/geek-squad.svg"
+    logo: "images/experiences/geek-squad.svg"
+    darkLogo: "images/experiences/geek-squad.svg"
     overview: "Computer and electronic repair services within BestBuy. GeekSquad helps customers to solve computer problems, troubleshoot issues across a range of products and answer tech questions."
 
   positions:

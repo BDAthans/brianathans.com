@@ -27,13 +27,13 @@
       "ityped": "project",
       "katex": "project",
       "mark.js": "project",
-      "mermaid": "project",
       "plyr": "project",
       "popper.js": "project",
       "postcss": "project",
       "postcss-cli": "project"
     }
   },
+  "dependencies": {},
   "description": "A [Hugo](https://gohugo.io/) theme for a personal portfolio with minimalist design and responsiveness.",
   "devDependencies": {
     "@fontsource/mulish": "4.5.13",

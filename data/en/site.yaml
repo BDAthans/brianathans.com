@@ -15,5 +15,5 @@ openGraph:
   title: Brian Athans Portfolio
   type: website
   description: Portfolio of Brian Athans.
-  image: images/Brian1.jpg
+  image: "images/Brian1.jpg"
   url: https://bdathans.github.io/brianathans.com/

@@ -3,7 +3,7 @@ name: "Brian Athans"
 nickname: "Brian"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Pleased to meet you, I am"
-image: "/images/portraits/brian1.webp"
+image: "images/portraits/brian1.webp"
 # give your some contact information. they will be used in the footer
 contactInfo:
   #email: "bdathans@yahoo.com"
