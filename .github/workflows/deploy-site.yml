@@ -33,7 +33,7 @@ jobs:
         npm install
 
     - name: Build site
-      run: hugo --minify
+      run: hugo --baseURL "https://bdathans.github.io/brianathans.com" --minify
 
     # push the generated content into the 'live' branch
     - name: Deploy in live branch
