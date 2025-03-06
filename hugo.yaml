@@ -1,6 +1,8 @@
 baseURL: https://bdathans.github.io/brianathans.com/
 languageCode: en-us
 title: Brian Athans Portfolio
+relativeURLs: true
+canonifyURLs: true
 
 module:
   hugoVersion:
