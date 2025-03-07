@@ -13,9 +13,9 @@
     background-attachment: fixed;
     background-position: center;
     transform: scale(1.1);
-    //filter: blur(3px);
+    filter: blur(2px);
     background-size: cover;
-    //-webkit-mask-image: linear-gradient(to bottom, rgba(248, 250, 252, 1) 30%, rgba(248, 250, 252, 0.5) 40%, rgba(255, 255, 255, 0) 100%) !important;
+    -webkit-mask-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 85%, rgba(255, 255, 255, 0) 95%);
     mask-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 85%, rgba(255, 255, 255, 0) 95%);
   }
 
@@ -123,9 +123,9 @@ html[data-theme='dark'] {
       background-attachment: fixed;
       background-position: center;
       transform: scale(1.1);
-      //filter: blur(3px);
+      filter: blur(2px);
       background-size: cover;
-      //-webkit-mask-image: linear-gradient(to bottom, rgba(248, 250, 252, 1) 30%, rgba(248, 250, 252, 0.5) 40%, rgba(255, 255, 255, 0) 100%) !important;
+      -webkit-mask-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 85%, rgba(255, 255, 255, 0) 95%);
       mask-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 85%, rgba(255, 255, 255, 0) 95%);
     }
 
