@@ -61,37 +61,37 @@ badges:
   name: CompTia IT Operations Specialist 
   url: "https://www.credly.com/badges/cef6fad2-6948-417e-b2b7-27e047fd1681"
   #badge: "https://images.credly.com/size/340x340/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png"
-  badge: "https://github.com/BDAthans/brianathans.com/blob/main/assets/images/badges/CompTIA_CIOS.webp"
+  badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/CompTIA_CIOS.webp"
 
 - type: certification
   name: CompTIA Secure Infrastructure Specialist
   url: "https://www.credly.com/badges/9ebeb3e9-f328-49b5-ac00-54ae17ccf2c4"
   #badge: "https://images.credly.com/size/340x340/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png"
-  badge: "https://github.com/BDAthans/brianathans.com/blob/main/assets/images/badges/CompTIA_CSIS.webp"
+  badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/CompTIA_CSIS.webp"
 
 - type: certification
   name: CompTIA Security+ ce Certification
   url: "https://www.credly.com/badges/19dde1ac-efac-49fe-9a10-30846e994f75"
   #badge: "https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"
-  badge: "https://github.com/BDAthans/brianathans.com/blob/main/assets/images/badges/CompTIA_Securtiy.webp"
+  badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/CompTIA_Security.webp"
 
 - type: certification
   name: CompTIA Network+ ce Certification
   url: "https://www.credly.com/badges/dcfc6899-385a-4dc6-973f-821f552e1f34"
   #badge: "https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png"
-  badge: "https://github.com/BDAthans/brianathans.com/blob/main/assets/images/badges/CompTIA_Network.webp"
+  badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/CompTIA_Network.webp"
 
 - type: certification
   name: CompTIA A+ ce Certification
   url: "https://www.credly.com/badges/4443ee43-4ff7-4a90-8793-6c05f5ff95e0"
   #badge: "https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png"
-  badge: "https://github.com/BDAthans/brianathans.com/blob/main/assets/images/badges/CompTIA_A.webp"
+  badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/CompTIA_A.webp"
 
 - type: certification
   name: CompTIA Project+ Certification
   url: "https://www.credly.com/org/comptia/badge/comptia-project-certification.4"
   #badge: "https://images.credly.com/images/dac352d2-7755-4178-a4a4-b67a1a3f7aca/CompTIA_Project_2B.png"
-  badge: "https://github.com/BDAthans/brianathans.com/blob/main/assets/images/badges/CompTIA_Project.webp"
+  badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/CompTIA_Project.webp"
 
 - type: soft-skill-indicator
   name: Leadership
