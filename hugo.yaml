@@ -1,5 +1,5 @@
-baseURL: "https://bdathans.github.io"
-# baseURL: "https://bdathans.github.io/brianathans.com/"
+baseURL: "https://brianathans.com"
+# baseURL: "https://bdathans.github.io/"
 languageCode: en-us
 title: Brian Athans Portfolio
 #relativeURLs: true
