@@ -35,7 +35,7 @@ buttons:
 skills:
 - name: Docker
   logo: "images/skills/docker.svg"
-  summary: "Capable of deploying, and managing applications running in Docker. Experienced in creating and building Docker images, mangaging networks and deploying custom containers."
+  summary: "Capable of deploying, and managing applications running in Docker. Experienced in creating and building Docker images, managing networks and deploying custom containers."
   categories: ["vm", "networking"]
   url: "https://www.docker.com/"
 

@@ -68,9 +68,12 @@ params:
   # Background image of the landing page
   background: "/images/backgrounds/background6.webp"
   # GitHub repo of your site
-  gitRepo: https://github.com/BDAthans/toha
+  gitRepo: https://github.com/BDAthans/brianathans.com
   # Default branch of your Git repo
   gitBranch: main
+
+  logo:
+    favicon: "images/favicon.png"
 
   features:
     # Configure theme color settings
