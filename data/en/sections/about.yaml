@@ -99,6 +99,16 @@ badges:
   url: "https://www.credly.com/badges/41e2c4d7-256f-4d11-9307-2404bdf6e087"
   badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/ISC2_SSCP.webp"
 
+- type: certification
+  name: ""
+  url: ""
+  badge: ""
+
+- type: certification
+  name: ""
+  url: ""
+  badge: ""
+
 - type: soft-skill-indicator
   name: Leadership
   percentage: 85
