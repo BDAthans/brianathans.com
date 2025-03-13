@@ -94,6 +94,11 @@ badges:
   #badge: "https://images.credly.com/images/dac352d2-7755-4178-a4a4-b67a1a3f7aca/CompTIA_Project_2B.png"
   badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/CompTIA_Project.webp"
 
+- type: certification
+  name: ISC2 SSCP Certification
+  url: "https://www.credly.com/badges/41e2c4d7-256f-4d11-9307-2404bdf6e087"
+  badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/ISC2_SSCP.webp"
+
 - type: soft-skill-indicator
   name: Leadership
   percentage: 85
