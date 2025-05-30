@@ -100,9 +100,9 @@ badges:
   badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/ISC2_SSCP.webp"
 
 - type: certification
-  name: ""
-  url: ""
-  badge: ""
+  name: ITIL 4 Foundation Certificate in IT Service Management
+  url: "https://www.credly.com/org/peoplecert/badge/itil-4-foundation"
+  badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/itil-4-foundation.webp"
 
 - type: certification
   name: ""
@@ -111,27 +111,27 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 92
   color: "#bed190"
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 92
   color: "#91d9bf"
 
 - type: soft-skill-indicator
   name: Communication
-  percentage: 85
+  percentage: 95
   color: "#8bc386"
 
 - type: soft-skill-indicator
   name: Project Management
-  percentage: 85
+  percentage: 90
   color: "#668c73"
 
 - type: soft-skill-indicator
   name: Adaptability
-  percentage: 90
+  percentage: 95
   color: "#58918b"
 
 - type: soft-skill-indicator
