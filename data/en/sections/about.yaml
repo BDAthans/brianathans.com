@@ -111,12 +111,12 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 92
+  percentage: 90
   color: "#bed190"
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 92
+  percentage: 90
   color: "#91d9bf"
 
 - type: soft-skill-indicator
