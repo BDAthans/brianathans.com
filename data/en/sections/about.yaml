@@ -119,14 +119,19 @@ badges:
   url: ""
   badge: ""
 
+- type: certification
+  name: ""
+  url: ""
+  badge: ""
+
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 90
+  percentage: 95
   color: "#bed190"
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 95
   color: "#91d9bf"
 
 - type: soft-skill-indicator
