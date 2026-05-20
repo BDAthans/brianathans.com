@@ -59,7 +59,7 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: CompTia IT Operations Specialist 
+  name: CompTIA IT Operations Specialist 
   url: "https://www.credly.com/badges/cef6fad2-6948-417e-b2b7-27e047fd1681"
   #badge: "https://images.credly.com/size/340x340/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png"
   badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/CompTIA_CIOS.webp"
@@ -69,6 +69,16 @@ badges:
   url: "https://www.credly.com/badges/9ebeb3e9-f328-49b5-ac00-54ae17ccf2c4"
   #badge: "https://images.credly.com/size/340x340/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png"
   badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/CompTIA_CSIS.webp"
+
+- type: certification
+  name: "CompTIA Security Analytics Professional"
+  url: "https://www.credly.com/badges/58278997-f88b-407c-b127-b6b1230c1745"
+  badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/CompTIA_CSAP.webp"
+
+- type: certification
+  name: "CompTIA CySA+ ce Certification"
+  url: "https://www.credly.com/badges/feeb5adb-80ca-49d6-8069-fee56138dea2"
+  badge: "https://raw.githubusercontent.com/BDAthans/brianathans.com/refs/heads/main/assets/images/badges/CompTIA_CYSA.webp"
 
 - type: certification
   name: CompTIA Security+ ce Certification
